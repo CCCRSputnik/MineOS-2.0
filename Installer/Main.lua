@@ -58,9 +58,9 @@ local function progress(value)
 	local x, y, part = centrize(width), title(), math.ceil(width * value)
 	
 	component.invoke(GPUAddress, "setForeground", 0x878787)
-	component.invoke(GPUAddress, "set", x, y, string.rep("?", part))
+	component.invoke(GPUAddress, "set", x, y, string.rep("─", part))
 	component.invoke(GPUAddress, "setForeground", 0xC3C3C3)
-	component.invoke(GPUAddress, "set", x + part, y, string.rep("?", width - part))
+	component.invoke(GPUAddress, "set", x + part, y, string.rep("─", width - part))
 end
 
 local function filesystemPath(path)
@@ -293,8 +293,8 @@ local stage = 1
 local stages = {}
 
 local usernameInput = newInput("")
-local passwordInput = newInput("", false, "�")
-local passwordSubmitInput = newInput("", false, "�")
+local passwordInput = newInput("", false, "•")
+local passwordSubmitInput = newInput("", false, "•")
 local usernamePasswordText = GUI.text(1, 1, 0xCC0040, "")
 local passwordSwitchAndLabel = newSwitchAndLabel(26, 0x66DB80, "", false)
 
