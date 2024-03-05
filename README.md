@@ -13,8 +13,8 @@
 # Установка:
 Скопируйте эту команду в OpenOS: 
 
- 
-wget https://raw.githubusercontent.com/Govnosborkinoapps/OpenComputers/master/Installer/Installer.lua
+ wget https://raw.githubusercontent.com/CCCRSputnik/MineOS-2.0/master/Installer/Installer.lua
+ и откройте её
 
 Другие источники (там очень медленное скачивание файлов):
 
