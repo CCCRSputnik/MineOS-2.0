@@ -397,7 +397,7 @@ while uptime() < deadline do
 								restrict(proxy.spaceTotal() > 1048575 and "HDD" or proxy.spaceTotal() > 65535 and "FDD" or "SYS", 3) ..
 								restrict(isReadOnly and "R  " or "R/W", 3) ..
 								restrict(math.ceil(proxy.spaceUsed() / proxy.spaceTotal() * 100) .. "%", 4) ..
-								address:sub(1, 8) .. "…",
+								address:sub(1, 8) .. "â€¦",
 								
 								function()
 									local elements = {
@@ -450,7 +450,7 @@ while uptime() < deadline do
 
 		if internetAddress then	
 			tableInsert(utilities, 2, newMenuElement("System recovery", function()
-				internetExecute("http://raw.githubusercontent.com/CCCRSputnik/MineOS-2.0/master/Installer/Main.Lua")
+				internetExecute("http://raw.githubusercontent.com/CCCRSputnik/MineOS-2.0/master/Installer/Main.lua")
 			end))
 			
 			tableInsert(utilities, 3, newMenuElement(stringsURLBoot, function()
