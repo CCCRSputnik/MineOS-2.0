@@ -450,7 +450,7 @@ while uptime() < deadline do
 
 		if internetAddress then	
 			tableInsert(utilities, 2, newMenuElement("System recovery", function()
-				internetExecute("http://raw.githubusercontent.com/CCCRSputnik/MineOS-2.0/master/Installer/Main.lua")
+				internetExecute("https://tinyurl.com/yr4nc37y")
 			end))
 			
 			tableInsert(utilities, 3, newMenuElement(stringsURLBoot, function()
