@@ -1,7 +1,7 @@
 local result, reason = ""
 
 do
-	local handle, chunk = component.proxy(component.list("internet")() or error("Required internet component is missing")).request("https://raw.githubusercontent.com/CCCRSputnik/MineOS-2.0/master/Installer/Main.Lua")
+	local handle, chunk = component.proxy(component.list("internet")() or error("Required internet component is missing")).request("https://raw.githubusercontent.com/CCCRSputnik/MineOS-2.0/master/Installer/Main.lua")
 
 	while true do
 		chunk = handle.read(math.huge)
