@@ -1,0 +1,18 @@
+{
+	activeEffects = "目前的效果",
+	sent = "已发送",
+	received = "已接收",
+	nothingFound = "没有找到效果",
+	instructionTitle = "命令",
+	instructionData = "在屏幕的左側，有一些開關可以告訴納米人激活生物接觸。",
+	syncWelcome = "欢迎",
+	syncInfo = "在使用該程序之前，先製作並飲用一包納米粒子。",
+	syncProgress = "與 nanites 有同步，在進程完成之前不要離開計算機：",
+	syncContacts = "生物接觸更新 %d 次，共 %d 次",
+	favourites = "选定的效果",
+	saveConfiguration = "保存配置",
+	saveFailed = "保存失败: in the inventory there are no unconfigured nanites",
+	notSynced = "與 nanites 不同步。",
+	notWireless = "此电脑有网卡, 但纳米机器人只能通过无线网络感知命令. 插入无线网卡, 然后重试",
+	noModem = "計算機沒有無線調製解調器來通過網絡發送和接收 nanite 命令"
+}
