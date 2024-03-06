@@ -18,6 +18,6 @@
 	flashing = "Прошивка EEPROM...",
 	creating = "Создание профиля пользователя...",
 	installing = "Установка",
-	installed = "MineOS Kidz установлена. Наслаждайтесь!",
+	installed = "MineOS 2 установлена. Наслаждайтесь!",
 	reboot = "Перезагрузить",
 }
