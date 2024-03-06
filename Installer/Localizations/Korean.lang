@@ -9,7 +9,7 @@
 	screensavers = "화면보호기:",
 	applications = "서드파티 앱:",
 	languages = "언어 패키지:",
-	accept = "라이센스에 동의합니다:",
+	accept = "약관에 동의합니다 :",
 	select = "MineOS를 설치할 디스크를 선택하세요.",
 	erase = "지우기",
 	used = "사용됨",
@@ -18,6 +18,6 @@
 	flashing = "EEPROM 플래시중",
 	creating = "사용자 계정 생성중",
 	installing = "설치중",
-	installed = "MineOS Kidz가 설치되었습니다.",
+	installed = "MineOS가 설치되었습니다.",
 	reboot = "컴푸터 재시동",
 }

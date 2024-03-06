@@ -9,7 +9,7 @@
 	screensavers = "Écran de veille:",
 	applications = "Applications tierces:",
 	languages = "Packs de langue:",
-	accept = "J'accepte la licence:",
+	accept = "J'accepte ce charabia:",
 	select = "Sélectionnez un disque pour l'installation",
 	erase = "Effacer",
 	used = "Utiliser",
@@ -18,6 +18,6 @@
 	flashing = "Programmation du EEPROM...",
 	creating = "Création de votre profil d'utilisateur...",
 	installing = "Installer",
-	installed = "MineOS Kidz à bien été installé. Amusez-vous bien!",
+	installed = "MineOS à bien été installé. Amusez-vous bien!",
 	reboot = "Redémarrer l'ordinateur !",
 }

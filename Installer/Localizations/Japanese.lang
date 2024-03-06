@@ -9,7 +9,7 @@
 	screensavers = "スクリーンセーバー:",
 	applications = "サードパーティーアプリ:",
 	languages = "言語パック:",
-	accept = "ライセンスに同意します:",
+	accept = "同意する:",
 	select = "インストールするドライブを選択してください",
 	erase = "消去",
 	used = "使用中",
@@ -18,6 +18,6 @@
 	flashing = "EEPROMにコピー中...",
 	creating = "ユーザーを作成中...",
 	installing = "インストール中",
-	installed = "MineOS Kidzがインストールされました。 楽しんで!",
+	installed = "MineOSがインストールされました。 楽しんで!",
 	reboot = "再起動",
 }

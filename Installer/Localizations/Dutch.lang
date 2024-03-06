@@ -9,7 +9,7 @@
 	screensavers = "Screensavers:",
 	applications = "Apps van derden:",
 	languages = "Taalpakketten:",
-	accept = "Ik accepteer de licentie:",
+	accept = "Ik ga akkoord:",
 	select = "Kies bestandssysteem voor installatie",
 	erase = "Verwijder",
 	used = "gebruikt",
@@ -18,6 +18,6 @@
 	flashing = "Flashen van EEPROM...",
 	creating = "Gebruikersprofiel aanmaken...",
 	installing = "Installeren",
-	installed = "MineOS Kidz is geïnstalleerd. Veel plezier!",
+	installed = "MineOS is geïnstalleerd. Veel plezier!",
 	reboot = "Herstart",
 }

@@ -9,7 +9,7 @@
 	screensavers = "Näytönsäästäjät:",
 	applications = "Kolmannen osapuolen sovellukset:",
 	languages = "Kielipaketit:",
-	accept = "Hyväksyn lisenssin:",
+	accept = "Sallin tämän paskan:",
 	select = "Valitse asema asennukselle",
 	erase = "Pyyhi",
 	used = "käytössä",

@@ -9,7 +9,7 @@
 	screensavers = "Salvapantallas:",
 	applications = "Aplicaciones de Terceros:",
 	languages = "Pack de lenguajes:",
-	accept = "Acepto la licencia:",
+	accept = "Yo acepto esta mierda:",
 	select = "Seleccionar disco para la instalacion",
 	erase = "Borrar",
 	used = "Usado",
@@ -18,6 +18,6 @@
 	flashing = "Flasheando EEPROM...",
 	creating = "Creando perfil de usuario...",
 	installing = "Instalando",
-	installed = "MineOS Kidz ha sido instalado. Disfruta!",
+	installed = "MineOS ha sido instalado. Disfruta!",
 	reboot = "Reiniciar el ordenador",
 }
